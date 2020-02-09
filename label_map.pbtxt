@@ -1,0 +1,204 @@
+item {
+	name:"Co"
+	id:1
+}
+item {
+	name:"XaBan"
+	id:2
+}
+item {
+	name:"Lua"
+	id:3
+}
+item {
+	name:"Rau"
+	id:4
+}
+item {
+	name:"Bap"
+	id:5
+}
+item {
+	name:"Cu"
+	id:6
+}
+item {
+	name:"Mia"
+	id:7
+}
+item {
+	name:"CayAnTrai"
+	id:8
+}
+item {
+	name:"CayXanh"
+	id:9
+}
+item {
+	name:"Re"
+	id:10
+}
+item {
+	name:"Cafe"
+	id:11
+}
+item {
+	name:"CaoSu"
+	id:12
+}
+item {
+	name:"Tieu"
+	id:13
+}
+item {
+	name:"Tra"
+	id:14
+}
+item {
+	name:"Dua"
+	id:15
+}
+item {
+	name:"Xe"
+	id:16
+}
+item {
+	name:"MatDuong"
+	id:17
+}
+item {
+	name:"LeDuong"
+	id:18
+}
+item {
+	name:"CongTrinhPhu"
+	id:19
+}
+item {
+	name:"CauDuong"
+	id:20
+}
+item {
+	name:"Container"
+	id:21
+}
+item {
+	name:"TauThuy"
+	id:22
+}
+item {
+	name:"CanCau"
+	id:23
+}
+item {
+	name:"CauCang"
+	id:24
+}
+item {
+	name:"ĐuongRay"
+	id:25
+}
+item {
+	name:"TauLua"
+	id:26
+}
+item {
+	name:"Dochoi"
+	id:27
+}
+item {
+	name:"Hoa"
+	id:28
+}
+item {
+	name:"HoBoi"
+	id:29
+}
+item {
+	name:"CongBenhVien"
+	id:30
+}
+item {
+	name:"BacSi"
+	id:31
+}
+item {
+	name:"BangCa"
+	id:32
+}
+item {
+	name:"CongTruong"
+	id:33
+}
+item {
+	name:"HocSinh"
+	id:34
+}
+item {
+	name:"PhongHoc"
+	id:35
+}
+item {
+	name:"Logo"
+	id:36
+}
+item {
+	name:"Toanha"
+	id:37
+}
+item {
+	name:"NhaO"
+	id:38
+}
+item {
+	name:"HangRao"
+	id:39
+}
+item {
+	name:"ChungCu"
+	id:40
+}
+item {
+	name:"NhaMay"
+	id:41
+}
+item {
+	name:"NhaKho"
+	id:42
+}
+item {
+	name:"Thuyen"
+	id:43
+}
+item {
+	name:"NhaOChuot"
+	id:44
+}
+item {
+	name:"SuoiThac"
+	id:45
+}
+item {
+	name:"BoHo"
+	id:46
+}
+item {
+	name:"Be"
+	id:47
+}
+item {
+	name:"Ca"
+	id:48
+}
+item {
+	name:"Phao"
+	id:49
+}
+item {
+	name:"MaySucKhi"
+	id:50
+}
+item {
+	name:"Luoi"
+	id:51
+}
